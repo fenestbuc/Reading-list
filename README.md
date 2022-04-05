@@ -1,2 +1,18 @@
-# CS-reading list
- These are  the book s I aim to read in 2022
+# Reading list
+*These are  the books I aim to read in 2022*
+
+## Computer Science
+- [ ] Compilers: Principles, Techniques, and Tools - Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman
+- [ ] Advanced Linux programming - Alex Samuel, Jeffrey Oldham, and Mark Mitchell
+- [ ] UNIX in a nutshell - Arnold Robbins
+- [ ] Parallel Programming
+- [ ] Computer and Network Security Essentials - Guillermo Francia, Levent Ertaul, Luis Hernandez Encinas, Eman El-Sheikh
+
+## Philosophy
+- [ ] Being and Nothingness - Jean-Paul Sartre
+- [ ] Thus Spoke Zarathustra: A Book for All and None - Friedrich Nietzsche
+- [ ] Beyond Good and Evil - Friedrich Nietzsche
+- [ ] Twilight of the Idols - Friedrich Nietzsche
+- [ ] The Antichrist - Friedrich Nietzsche
+- [ ] Confusion: A Study in the Theory of Knowledge - Joseph L. Camp
+- [ ] A New Introduction to Modal Logic - George Edward Hughes and Max Cresswell
