@@ -16,3 +16,7 @@
 - [ ] The Antichrist - Friedrich Nietzsche
 - [ ] Confusion: A Study in the Theory of Knowledge - Joseph L. Camp
 - [ ] A New Introduction to Modal Logic - George Edward Hughes and Max Cresswell
+
+## Finance
+
+## Others
