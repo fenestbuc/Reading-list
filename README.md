@@ -7,6 +7,8 @@
 - [ ] UNIX in a nutshell - Arnold Robbins
 - [ ] Parallel Programming
 - [ ] Computer and Network Security Essentials - Guillermo Francia, Levent Ertaul, Luis Hernandez Encinas, Eman El-Sheikh
+- [ ] Programming Languages *Design and Implementation* - Terrance W. Pratt, Marvin V. Zelkowitz and T.V. Gopal
+- [ ] ML for the working programmer - L.C. Paulson
 
 ## Philosophy
 - [ ] Being and Nothingness - Jean-Paul Sartre
