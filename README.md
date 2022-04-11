@@ -9,6 +9,8 @@
 - [ ] Computer and Network Security Essentials - Guillermo Francia, Levent Ertaul, Luis Hernandez Encinas, Eman El-Sheikh
 - [ ] Programming Languages *Design and Implementation* - Terrance W. Pratt, Marvin V. Zelkowitz and T.V. Gopal
 - [ ] ML for the working programmer - L.C. Paulson
+- [ ] Practical Common Lisp - Peter Seibel
+
 
 ## Philosophy
 - [ ] Being and Nothingness - Jean-Paul Sartre
