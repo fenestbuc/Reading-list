@@ -10,6 +10,12 @@
 - [ ] Programming Languages *Design and Implementation* - Terrance W. Pratt, Marvin V. Zelkowitz and T.V. Gopal
 - [ ] ML for the working programmer - L.C. Paulson
 - [ ] Practical Common Lisp - Peter Seibel
+- [ ] Classic Shell Scripting
+- [ ] Introduction to Modern Cryptography
+- [ ] Uderstanding Cryptography
+- [ ] Applied Cryptography
+- [ ] Cryptography and Network Security
+- [ ] Network Security
 
 
 ## Philosophy
